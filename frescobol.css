@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    width: 575px;
+    height: 385px;
+
+    background: #1B244A;
+}
+
+h1 {
+    color: EEEEEE;
+    font-weight: bold;
+    text-align: center;
+}
+
+span {
+    color: F94F6D;
+    font-size: 56px;
+    margin-left: 29%;
+    
+}
+
+button {
+    color: 9AABD8;
+    background-color: #1B244A;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.period {
+    margin-top: 25%;
+}

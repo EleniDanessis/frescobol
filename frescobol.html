@@ -1,0 +1,56 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frescobol Scoreboard App</title>
+    <link rel="stylesheet" href="frescobol.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div>
+            <div>
+                <h1>HOME</h1>
+            </div>
+            <div>
+                <span id="home">0</span>
+            </div>
+            <div class="buttons">
+                <button onclick="add1Home()">+1</button>
+                <button onclick="add2Home()">+2</button>
+                <button onclick="add3Home()">+3</button>
+            </div>
+        </div>
+        <div class="period">
+            <div>
+                <h1>PERIOD</h1>
+            </div>
+            <div>
+                <span id="period">0</span>
+            </div>
+            <div class="buttons">
+                <button onclick="period1()">1</button>
+                <button onclick="period2()">2</button>
+                <button onclick="period3()">3</button>
+            </div>
+        </div>
+        <div>
+            <div>
+                <h1>GUEST</h1>
+            </div>
+            <div>
+                <span id="guest">0</span>
+            </div>
+            <div class="buttons">
+                <button onclick="add1Guest()">+1</button>
+                <button onclick="add2Guest()">+2</button>
+                <button onclick="add3Guest()">+3</button>
+            </div>
+        </div>
+    </div>
+    <script src="frescobol.js"></script>
+</body>
+</html>
