@@ -1,6 +1,6 @@
 # Frescobol Scoreboard 
 
-This project was made for educational purposes but could be applied as a simple component of a game. It was made by following a figma desgin, although I took a little creative license in changing the font to Orbitron to make it look more like an authentic scoreboard - like the ones you see at basketball games or other major sporting events. 
+This project was made for educational purposes but could be applied as a simple component of a game. It was made by following a figma design, although I took a little creative license in changing the font to Orbitron to make it look more like an authentic scoreboard - like the ones you see at basketball games or other major sporting events. 
 
 As mentioned on my website portfolio, this summer, I got into playing Frescobol.
 
